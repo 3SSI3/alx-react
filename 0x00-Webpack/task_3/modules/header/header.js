@@ -1,7 +1,7 @@
 import './header.css';
-const $ = require('jquery');
+import $ from 'jquery';
 
-$('body').append('<header></header>');
-$('header').append('<div id="logo"></div>', '<h1>Holberton Dashboard</h1>');
+$('body').append('<div id="logo"></div>');
+$('body').append('<p>Holberton Dashboard</p>');
 
 console.log('Init header');
