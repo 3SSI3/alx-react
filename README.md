@@ -1,20 +1,45 @@
-# Alx React
+# Web Stack - React
 
-## Projects
+![ALX logo](https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png)
 
-| PR.NO | PROJECT                                                                              | DESCRIPTION |
-| ----- | ------------------------------------------------------------------------------------ | ----------- |
-| 0x00  | [Webpack](./0x00-Webpack)                                                            |             |
-| 0x01  | [React intro](./0x01-react_intro)                                                    |             |
-| 0x02  | [React props](./0x02-react_props)                                                    |             |
-| 0x03  | [React component](./0x03-React_component)                                            |             |
-| 0x04  | [React inline styling](./0x04-React_inline_styling)                                  |             |
-| 0x05  | [React state](./0x05-react_state)                                                    |             |
-| 0x06  | [React Immutable](./0x06-React_Immutable/)                                           |             |
-| 0x07  | [React Redux action creator+normalizr](./0x07-react_redux_action_creator_normal/)    |             |
-| 0x08  | [React Redux reducer+selector](./0x08-react_redux_reducer_selector/)                 |             |
-| 0x09  | [React Redux Connectors and Providers](./0x09-react_redux_connectors_and_providers/) |             |
+> Web Stack - React
+
+## Description:bulb:
+
+- Webpack
+- TypeScript
+- React I
+- Intro
+- Props
+- React II
+- State
+- Inmmutable
+- Inline-styling
+- React Redux
+- React Portfolio Project
+
+## Technologies & Tools:computer:
+
+[![Jest](https://img.shields.io/badge/≡-Jest-C21325?logo=Jest&style=flat-square&labelColor=282828&logoColor=C21325)](https://jestjs.io/)
+[![Git](https://img.shields.io/badge/≡-Git-F05032?logo=git&style=flat-square&labelColor=282828)](https://git-scm.com/)
+[![Ubuntu](https://img.shields.io/badge/≡-Ubuntu-E95420?&style=flat-square&logo=Ubuntu&labelColor=282828)](https://ubuntu.com/)
+[![Mocha](https://img.shields.io/badge/≡-Mocha-8D6748?logo=Mocha&style=flat-square&labelColor=282828)](https://mochajs.org/)
+[![Babel](https://img.shields.io/badge/≡-Babel-F9DC3E?logo=Babel&style=flat-square&labelColor=282828)](https://babeljs.io/)
+[![JavaScript](https://img.shields.io/badge/≡-JavaScript-F7DF1E?logo=javascript&style=flat-square&labelColor=282828)](https://developer.mozilla.org/en-US/docs/Web/javascript)
+[![GNU_Bash](https://img.shields.io/badge/≡-GNU_Bash-4EAA25?logo=GNU-Bash&style=flat-square&labelColor=282828)](https://www.gnu.org/software/bash/)
+[![Nodejs](https://img.shields.io/badge/≡-Nodejs-339933?logo=Node.js&style=flat-square&labelColor=282828)](https://nodejs.org/en/)
+[![Vim](https://img.shields.io/badge/≡-Vim-019733?logo=Vim&style=flat-square&logoColor=019733&labelColor=282828)](https://www.vim.org/)
+[![Vagrant](https://img.shields.io/badge/≡-Vagrant-1563FF?logo=vagrant&style=flat-square&logoColor=1563FF&labelColor=282828)](https://www.vagrantup.com/)
+[![VS_Code](https://img.shields.io/badge/≡-VS_Code-007ACC?logo=visual-studio-code&style=flat-square&logoColor=007ACC&labelColor=282828)](https://code.visualstudio.com/)
+[![TypeScript](https://img.shields.io/badge/≡-TypeScript-3178C6?logo=TypeScript&style=flat-square&logoColor=3178C6&labelColor=282828)](https://www.vagrantup.com/)
+[![Webpack](https://img.shields.io/badge/≡-Webpack-8DD6F9?logo=Webpack&style=flat-square&labelColor=282828)](https://webpack.js.org/)
+[![Pop!_OS](https://img.shields.io/badge/≡-Pop!_OS-48B9C7?logo=Pop!_OS&style=flat-square&labelColor=282828)](https://pop.system76.com/)
+[![ESLint](https://img.shields.io/badge/≡-ESLint-4B32C3?logo=ESLint&style=flat-square&labelColor=282828&logoColor=4B32C3)](https://eslint.org/)
+[![GitHub](https://img.shields.io/badge/≡-GitHub-181717?logo=GitHub&style=flat-square&labelColor=282828)](https://github.com/)
+
+---
 
 ## Author
-
-- Mubarek Seid Juhar
+* **Wilson Osuji** (@wilsonosuji) - 
+  [<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/wilson-osuji/)
+  [<img src="https://img.shields.io/badge/GitHub-181717.svg?&style=plastic&logo=github&logoColor=white"/>](https://github.com/wilsonosuji)
