@@ -34,7 +34,7 @@
     "babel-loader": "^8.2.2",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.6",
-    "webpack": "^5.22.0",
+    "webpack": "^5.88.2",
     "webpack-cli": "^4.5.0",
     "webpack-dev-server": "^3.11.2"
   },
@@ -45,6 +45,9 @@
     "moduleNameMapper": {
       "\\.(css|sass)$": "<rootDir>/__mocks__/styleMock.js",
       "\\.(jpg|jpeg|png|gif|ttf|eot|svg)$": "<rootDir>/__mocks__/fileMock.js"
+    },
+      "transform": {
+        "^.+\\.jsx?$": "babel-jest"
+      }
     }
   }
-}
