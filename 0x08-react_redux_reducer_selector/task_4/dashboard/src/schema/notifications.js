@@ -15,6 +15,10 @@ export function getAllNotificationsByUser(userId) {
   return selectedNotifs;
 }
 
+export function notificationsNormalizer(data) {
+  return normalize(data, [notification]).entities;
+}
+
 const user = new schema.Entity('users');
 const message = new schema.Entity('messages', {}, {
   idAttribute: 'guid',
