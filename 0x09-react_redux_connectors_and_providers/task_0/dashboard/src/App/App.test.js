@@ -11,6 +11,7 @@ import CourseList from "../CourseList/CourseList";
 import { shallow, mount } from "enzyme";
 import { StyleSheetTestUtils } from "aphrodite";
 import { AppContext, user, logOut } from "./AppContext";
+import { mapStateToProps } from './App';
 
 beforeEach(() => {
   StyleSheetTestUtils.suppressStyleInjection();
@@ -165,5 +166,25 @@ describe("markNotificationAsRead works as intended", () => {
     expect(wrapper.state().listNotifications[3]).toBe(undefined);
 
     wrapper.unmount();
+
+    describe('mapStateToProps', () => {
+      it('should return the right object when isUserLoggedIn is true', () => {
+        const state = {
+          uiReducer: {
+            isUserLoggedIn: true
+          }
+        };
+    
+        const expectedProps = {
+          isLoggedIn: true
+        };
+    
+        const props = mapStateToProps(state);
+    
+        expect(props).toEqual(expectedProps);
+      });
+    
+      // Add more test cases as needed for different state scenarios
+    });
   });
 });
